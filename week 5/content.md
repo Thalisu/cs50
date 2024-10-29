@@ -1,6 +1,6 @@
 # Data Structures
 
-## Linked lists
+## Linked lists 
 
 `Data structure where each node contains data and a pointer to the next node`
 
