@@ -1,4 +1,4 @@
-# resume
+# Algorithms
 
 ### Big O notation
 
